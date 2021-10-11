@@ -1,0 +1,32 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "url_webiste":"yatimandroid.wordpress.com",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"MP3 Multi Ads",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92574196_261157678610912_115796497303339008_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
+    }
+  ]
+}
