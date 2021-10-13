@@ -1,0 +1,1695 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"ADMOB",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "name_category":"Pensee Positive Citations"
+      }
+   ],
+   "Quotes":[
+      {
+         "id":1,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vivez pleinement et concentrez-vous sur le positif. – Matt Cameron",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Commencez chaque journée avec une pensée positive et un cœur reconnaissant. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"N'ayez pas peur de la vie. Croyez que la vie vaut la peine d'être vécue, et votre croyance aidera à créer le fait. - William James",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Gardez votre visage au soleil et vous ne pouvez pas voir une ombre. - Helen Keller",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Où que vous alliez, quelle que soit la météo, apportez toujours votre propre soleil. – Anthony J. D'Angelo",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez reconnaissant pour tout ce qui se passe dans votre vie ; tout est une expérience. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Restez positif dans toutes les situations et dans tout ce que vous faites, n'arrêtez jamais d'essayer, ayez confiance, ne vous arrêtez pas à cause d'un échec. – Anurag Prakash Ray",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Aie conscience. Être reconnaissant. Sois positif. Sois sincère. Etre gentil. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les gens doivent rester positifs et croire en ces rêves. C'est vraiment important. – Kirsty Coventry",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La positivité dans notre vie est fonction de notre façon de penser. Alors pensez positif, restez positif !",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez la raison pour laquelle quelqu'un sourit. Soyez la raison pour laquelle quelqu'un se sent aimé et croit en la bonté des gens. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Crois que tu le peux et tu es à la moitié du chemin. - Théodore Roosevelt",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"L'optimisme est un aimant à bonheur. Si vous restez positif, de bonnes choses et de bonnes personnes seront attirées par vous. – Mary Lou Retton",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Hier n'est pas à nous de récupérer, mais demain est à nous de gagner ou de perdre. – Lyndon B. Johnson",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le changement n'apporte pas toujours la croissance, mais il n'y a pas de croissance sans changement. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Il faut être positif, et je ne parle pas que d'athlétisme, cela s'applique aussi à la vie. – Sheryl Swoops",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Concentrez-vous sur vos forces, pas sur vos faiblesses. Concentrez-vous sur votre personnage, pas sur votre réputation. Concentrez-vous sur vos bénédictions, pas sur vos malheurs. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je dois penser au positif ; c'est comme ça que je me débrouille. – Ingrid Newkirk",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand il pleut, ça se déverse? mais bientôt, le soleil brille à nouveau. Reste positif. Des jours meilleurs sont en route.",
+         "image_author":"null"
+      },
+      {
+         "id":20,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Attardez-vous sur la beauté de la vie. Regardez les étoiles et voyez-vous courir avec elles. – Marc Aurèle",
+         "image_author":"null"
+      },
+      {
+         "id":21,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Une fois que vous remplacez les pensées négatives par des pensées positives, vous commencerez à avoir des résultats positifs. - Willie Nelson",
+         "image_author":"null"
+      },
+      {
+         "id":22,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Aime toi toi-même. Il est important de rester positif car la beauté vient de l'intérieur. – Jenn Proske",
+         "image_author":"null"
+      },
+      {
+         "id":23,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Transformez toujours une situation négative en situation positive. - Michael Jordan",
+         "image_author":"null"
+      },
+      {
+         "id":24,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis une personne positive et j'essaie de voir le bon côté de tout. – Léona Lewis",
+         "image_author":"null"
+      },
+      {
+         "id":25,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vos moments les plus difficiles mènent souvent aux plus grands moments de votre vie. Continue. Les situations difficiles construisent des personnes fortes à la fin. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":26,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Cela fait une grande différence dans votre vie lorsque vous restez positif. - Ellen Degeneres",
+         "image_author":"null"
+      },
+      {
+         "id":27,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Au lieu de vous soucier de ce que vous ne pouvez pas contrôler, déplacez votre énergie vers ce que vous pouvez créer. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":28,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La vie, c'est 10 % de ce qui nous arrive et 90 % de la façon dont nous y réagissons. -Dennis P. Kimbro",
+         "image_author":"null"
+      },
+      {
+         "id":29,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez positif avec chaque idée entourant vos rêves. Pensez à la possibilité de ce que vous envisagez de faire et abordez-le avec une action optimiste. Restez positivement. – Israelmore Ayivor",
+         "image_author":"null"
+      },
+      {
+         "id":30,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Si vous ne pouvez absolument pas rester positif, ne devenez pas négatif, restez neutre pendant un moment jusqu'à ce que vous puissiez vous relever. – Terri Guillemets",
+         "image_author":"null"
+      },
+      {
+         "id":31,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Si vous avez une attitude positive et que vous vous efforcez constamment de faire de votre mieux, vous finirez par surmonter vos problèmes immédiats et découvrirez que vous êtes prêt à relever de plus grands défis. - Pat Riley",
+         "image_author":"null"
+      },
+      {
+         "id":32,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Entourez-vous de personnes et de situations positives et évitez la négativité. – Doreen Vertu",
+         "image_author":"null"
+      },
+      {
+         "id":33,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Si vous êtes positif, vous verrez des opportunités au lieu d'obstacles. – Widad Akrawi",
+         "image_author":"null"
+      },
+      {
+         "id":34,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La véritable opportunité de réussite réside dans la personne et non dans le travail. – Zig Ziglar",
+         "image_author":"null"
+      },
+      {
+         "id":35,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Peu importe ce que vous traversez, il y a une lumière au bout du tunnel et cela peut sembler difficile à atteindre, mais vous pouvez le faire et continuer à y travailler et vous trouverez le côté positif des choses. - Demi Lovato",
+         "image_author":"null"
+      },
+      {
+         "id":36,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'aime toujours regarder du côté optimiste de la vie, mais je suis suffisamment réaliste pour savoir que la vie est une question complexe. - Walt Disney",
+         "image_author":"null"
+      },
+      {
+         "id":37,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La chance est un dividende de sueur. Plus vous transpirez, plus vous avez de chance. – Ray Kroc",
+         "image_author":"null"
+      },
+      {
+         "id":38,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Il n'y a pas de voie royale vers quoi que ce soit. Une chose à la fois, toutes choses successives. Ce qui grandit vite se fane aussi vite. Ce qui pousse lentement, perdure. – Josiah Gilbert Hollande",
+         "image_author":"null"
+      },
+      {
+         "id":39,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le pessimisme mène à la faiblesse, l'optimisme au pouvoir. - William James",
+         "image_author":"null"
+      },
+      {
+         "id":40,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand je lâche ce que je suis, je deviens ce que je pourrais être. – Lao Tseu",
+         "image_author":"null"
+      },
+      {
+         "id":41,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Rien ne rend une personne plus heureuse que d'avoir un cœur heureux. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":42,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La pensée positive vous permettra de tout faire mieux que la pensée négative. – Zig Ziglar",
+         "image_author":"null"
+      },
+      {
+         "id":43,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Afin de porter une action positive, nous devons développer ici une vision positive. - Dalaï Lama",
+         "image_author":"null"
+      },
+      {
+         "id":44,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous pouvez trouver en vous le pire ennemi ou le meilleur ami. – Proverbe anglais",
+         "image_author":"null"
+      },
+      {
+         "id":45,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Dites et faites quelque chose de positif qui aidera la situation ; il ne prend aucun cerveau pour se plaindre. – Robert A. Cook",
+         "image_author":"null"
+      },
+      {
+         "id":46,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Plus souriant, moins inquiétant. Plus de compassion, moins de jugement. Plus béni, moins stressé. Plus d'amour, moins de haine. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":47,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La vie consiste à accepter les défis en cours de route, à choisir de continuer à avancer et à savourer le voyage. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":48,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Plus vous êtes positif et dites : « Je veux avoir une bonne vie », plus vous construisez cette réalité pour vous-même en créant la vie que vous voulez. – Chris Pin",
+         "image_author":"null"
+      },
+      {
+         "id":49,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La chose qui est à la base d'un changement positif, selon moi, c'est le service rendu à un autre être humain. – Lee Lacocca",
+         "image_author":"null"
+      },
+      {
+         "id":50,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Tout ce qui n'est pas positif, je n'ai pas l'énergie de me concentrer dessus. Tout ce qui ne va pas dans la bonne direction, je n'ai ni le temps ni l'énergie. – DMX",
+         "image_author":"null"
+      },
+      {
+         "id":51,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"L'inspiration vient de vous-même. Il faut être positif. Lorsque vous êtes positif, de bonnes choses arrivent. – Roy profond",
+         "image_author":"null"
+      },
+      {
+         "id":52,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Choisir d'être positif et d'avoir une attitude reconnaissante va déterminer comment vous allez vivre votre vie. – Joël Osteen",
+         "image_author":"null"
+      },
+      {
+         "id":53,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Il suffit d'une seule pensée positive lorsqu'on lui donne une chance de survivre et de prospérer pour vaincre toute une armée de pensées négatives. – Robert H. Schuller",
+         "image_author":"null"
+      },
+      {
+         "id":54,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'aime tout le monde. Une des grandes choses à propos de moi est que j'ai une attitude très positive. – Imelda Marcos",
+         "image_author":"null"
+      },
+      {
+         "id":55,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je ne me suis jamais, jamais concentré sur le négatif des choses. Je regarde toujours le positif. – Sonia Sotomayor",
+         "image_author":"null"
+      },
+      {
+         "id":56,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'ai fondamentalement une philosophie de vie très positive, parce que je n'ai pas l'impression d'avoir quelque chose à perdre. La plupart des choses vont bien se passer. – Hal Ashby",
+         "image_author":"null"
+      },
+      {
+         "id":57,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'ai toujours été capable de transformer le bonheur, la douleur, le chagrin et les larmes en énergie positive. – Thalie",
+         "image_author":"null"
+      },
+      {
+         "id":58,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous traversez une situation négative, n'y pensez pas. Rendez-le positif. – Yoko Ono",
+         "image_author":"null"
+      },
+      {
+         "id":59,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Dieu ne termine jamais rien sur un négatif ; Dieu finit toujours sur un positif. – Edwin Louis Cole",
+         "image_author":"null"
+      },
+      {
+         "id":60,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Trouvez toujours des occasions de faire sourire quelqu'un et d'offrir des actes de gentillesse au hasard dans la vie de tous les jours. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":61,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Levez les yeux, riez fort, parlez grand, gardez la couleur dans vos joues et le feu dans vos yeux, ornez votre personne, maintenez votre santé, votre beauté et votre esprit animal. - William Hazlitt",
+         "image_author":"null"
+      },
+      {
+         "id":62,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soit vous exécutez la journée, soit la journée vous dirige. – Jim Rohn",
+         "image_author":"null"
+      },
+      {
+         "id":63,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis tout au sujet de votre état d'esprit, d'être concentré, de rester positif, d'être optimiste et de savoir que ce sont tous des aspects de ma vie que j'aime et que j'apprécie. – Kyla Pratt",
+         "image_author":"null"
+      },
+      {
+         "id":64,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Ne vous inquiétez pas des échecs, souciez-vous des chances que vous ratez lorsque vous n'essayez même pas. – Jack Canfield",
+         "image_author":"null"
+      },
+      {
+         "id":65,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les gens aiment être entourés de ceux qui dégagent une énergie positive. -Erin Heatherton",
+         "image_author":"null"
+      },
+      {
+         "id":66,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Souvent, les gens regardent le côté négatif de ce qu'ils sentent qu'ils ne peuvent pas faire. Je regarde toujours du côté positif de ce que je peux faire. - Chuck Norris",
+         "image_author":"null"
+      },
+      {
+         "id":67,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Et je dois travailler si dur pour me parler positivement. Si je ne le fais pas, c'est vraiment difficile de passer la journée, et je vais vraiment me déprimer et j'ai juste envie de pleurer. Tout mon langage corporel change. Je m'affaisse davantage. – Delta Burke",
+         "image_author":"null"
+      },
+      {
+         "id":68,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous ne pouvez pas faire de choix positifs pour le reste de votre vie sans un environnement qui rend ces choix faciles, naturels et agréables. – Deepak Chopra",
+         "image_author":"null"
+      },
+      {
+         "id":69,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Mon optimisme porte des bottes lourdes et est bruyant. -Henry Rollins",
+         "image_author":"null"
+      },
+      {
+         "id":70,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Avoir la conviction positive que tout ira bien signifie simplement que vous vous dépêchez et que vous le faites fonctionner, car l'échec n'est même pas une option dans votre propre esprit. – Nathalie Massenet",
+         "image_author":"null"
+      },
+      {
+         "id":71,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vivez vos journées du côté positif de la vie, en accord avec vos valeurs les plus chères. Et à chaque instant, vous aurez de quoi vivre. -Ralph Marston",
+         "image_author":"null"
+      },
+      {
+         "id":72,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'essaie de rendre les bons jours formidables et de tirer quelque chose de positif des jours où je ne me sens pas bien – travailler sur la technique ou quelque chose comme ça. – Katie Ledecky",
+         "image_author":"null"
+      },
+      {
+         "id":73,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis une personne positive. Je ne pense jamais que le verre est à moitié vide. Je continue d'avancer. – Rosie Perez",
+         "image_author":"null"
+      },
+      {
+         "id":74,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis une personne très positive. Ma grand-mère m'a appris que le bonheur est à la fois une compétence et une décision, et vous êtes responsable du résultat. – Hélène McCrory",
+         "image_author":"null"
+      },
+      {
+         "id":75,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"L'énergie positive ne connaît pas de frontières. Si tout le monde diffusait une énergie positive sur Internet, le monde serait un bien meilleur endroit. – Lu Wei",
+         "image_author":"null"
+      },
+      {
+         "id":76,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous vous réveillez tous les jours, vous avez deux choix. Vous pouvez être positif ou négatif ; un optimiste ou un pessimiste. Je choisis d'être optimiste. Tout est une question de point de vue. -Harvey Mackay",
+         "image_author":"null"
+      },
+      {
+         "id":77,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis un grand optimiste arrogant. J'essaie d'accentuer le positif par opposition au négatif. – Betty Blanche",
+         "image_author":"null"
+      },
+      {
+         "id":78,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Une attitude positive est quelque chose sur laquelle tout le monde peut travailler, et tout le monde peut apprendre à l'utiliser. – Joan Lunden",
+         "image_author":"null"
+      },
+      {
+         "id":79,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous devez être capable de gérer le stress car des temps difficiles viendront et une attitude positive est ce qui vous permet de vous en sortir. – Marie Osmond",
+         "image_author":"null"
+      },
+      {
+         "id":80,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Nous traversons tous des moments tristes, mais j'ai été élevé pour être positif. – Jess Glynne",
+         "image_author":"null"
+      },
+      {
+         "id":81,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous ne pouvez pas vivre une vie positive avec un esprit négatif et si vous avez un résultat positif, vous avez un revenu positif et juste pour avoir plus de positivité et juste pour en rire. - Miley Cyrus",
+         "image_author":"null"
+      },
+      {
+         "id":82,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez positif et riez de tout. – Alexandra Roach",
+         "image_author":"null"
+      },
+      {
+         "id":83,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Adopter une attitude vraiment positive peut faire des merveilles pour ajouter des années à votre vie, un ressort à votre démarche, un éclat à vos yeux, et tout cela. – Christie Brinkley",
+         "image_author":"null"
+      },
+      {
+         "id":84,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Être positif, c'est comme gravir une montagne. Être négatif, c'est comme glisser en bas d'une colline. Souvent, les gens veulent opter pour la solution de facilité, car c'est essentiellement ce qu'ils ont compris tout au long de leur vie. – Chuck D",
+         "image_author":"null"
+      },
+      {
+         "id":85,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Pratiquement rien n'est impossible dans ce monde si vous y réfléchissez et maintenez une attitude positive. – Lou Holtz",
+         "image_author":"null"
+      },
+      {
+         "id":86,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand vous pensez positif, de bonnes choses arrivent. – Matt Kemp",
+         "image_author":"null"
+      },
+      {
+         "id":87,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Aime toi toi-même. Il est important de rester positif car la beauté vient de l'intérieur. – Jenn Proske",
+         "image_author":"null"
+      },
+      {
+         "id":88,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La culture positive vient du fait d'être attentif, de respecter ses collègues et d'être empathique. – Pierre de Biz",
+         "image_author":"null"
+      },
+      {
+         "id":89,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Chaque jour, j'arrive avec une attitude positive, essayant de m'améliorer. – Stefon Diggs",
+         "image_author":"null"
+      },
+      {
+         "id":90,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Nous pouvons apporter une énergie positive dans notre vie quotidienne en souriant davantage, en parlant à des inconnus en ligne, en remplaçant les poignées de main par des câlins et en appelant nos amis juste pour leur dire que nous les aimons. -Brandon Jenner",
+         "image_author":"null"
+      },
+      {
+         "id":91,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"C'est merveilleux d'être optimiste. Il vous garde en bonne santé et il vous garde résilient. -Daniel Kahneman",
+         "image_author":"null"
+      },
+      {
+         "id":92,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Entourez-vous de personnes positives et vous serez une personne positive. – Kellie Pickler",
+         "image_author":"null"
+      },
+      {
+         "id":93,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Profitez de chaque pas que vous faites. Si vous êtes curieux, il y a toujours quelque chose de nouveau à découvrir dans le cadre de votre quotidien. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":94,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je devais développer la mentalité et rester positif quant à mon retour. – Alonzo Deuil",
+         "image_author":"null"
+      },
+      {
+         "id":95,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Éloignez-vous un instant des problèmes et concentrez-vous sur les possibilités positives. Considérez combien vous êtes capable de faire. -Ralph Marston",
+         "image_author":"null"
+      },
+      {
+         "id":96,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Certains hommes voient les choses telles qu'elles sont et disent pourquoi - je rêve de choses qui n'ont jamais existé et je dis pourquoi pas. - George Bernard Shaw",
+         "image_author":"null"
+      },
+      {
+         "id":97,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les gagnants prennent l'habitude de créer leurs propres attentes positives avant l'événement. – Brian Tracy",
+         "image_author":"null"
+      },
+      {
+         "id":98,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous pouvez faire tout ce que vous pouvez pour essayer d'empêcher de mauvaises choses de vous arriver, mais des choses finiront par arriver, donc la meilleure prévention est une attitude positive. – Marie Osmond",
+         "image_author":"null"
+      },
+      {
+         "id":99,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous ne pouvez pas avoir une vie positive et un esprit négatif. - Joyce Meyer",
+         "image_author":"null"
+      },
+      {
+         "id":100,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous sortez de quelque chose de vraiment décevant, vous voulez revenir et vous regrouper et vous impliquer tout de suite dans quelque chose de positif. – Andy Roddick",
+         "image_author":"null"
+      },
+      {
+         "id":101,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Disciplinez votre esprit pour penser positivement. Disciplinez votre esprit pour voir le bon dans chaque situation et regardez du meilleur côté de chaque événement. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":102,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Pour moi, la vie consiste à être positif et plein d'espoir, à choisir d'être joyeux, à choisir d'être encourageant, à choisir d'être responsabilisant. - Billy Porter",
+         "image_author":"null"
+      },
+      {
+         "id":103,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous allez traverser des moments difficiles, c'est la vie. Mais je dis : 'Rien ne t'arrive, ça t'arrive.' Voir le positif dans les événements négatifs. – Joël Osteen",
+         "image_author":"null"
+      },
+      {
+         "id":104,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"N'allez pas là où le chemin peut mener, allez là où il n'y a pas de chemin et laissez une trace. -Ralph Waldo Emerson",
+         "image_author":"null"
+      },
+      {
+         "id":105,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je crois vraiment en la synergie positive, que votre état d'esprit positif vous donne une perspective plus optimiste, et la conviction que vous pouvez faire quelque chose de grand signifie que vous ferez quelque chose de grand. – Russell Wilson",
+         "image_author":"null"
+      },
+      {
+         "id":106,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Rien de positif vaut mieux que rien de négatif. – Elbert Hubbard",
+         "image_author":"null"
+      },
+      {
+         "id":107,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je pense que travailler dur dans n'importe quoi quand on est jeune et obtenir des résultats positifs, c'est toujours un sentiment incroyable de voir ça. -Jessica Springsteen",
+         "image_author":"null"
+      },
+      {
+         "id":108,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis un penseur très positif, et je pense que c'est ce qui m'aide le plus dans les moments difficiles. - Roger Federer",
+         "image_author":"null"
+      },
+      {
+         "id":109,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La pensée positive vous permettra d'utiliser la capacité que vous avez, et c'est génial. – Zig Ziglar",
+         "image_author":"null"
+      },
+      {
+         "id":110,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Il faut profiter de la vie. Soyez toujours entouré de personnes que vous aimez, de personnes qui ont une conversation agréable. Il y a tellement de choses positives à penser. – Sophia Loren",
+         "image_author":"null"
+      },
+      {
+         "id":111,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je continuerai de sourire, d'être positif et de ne jamais abandonner ! Je donnerai 100 pour cent à chaque fois que je jouerai. Ce sont toujours mes objectifs et mon attitude. – Yani Tseng",
+         "image_author":"null"
+      },
+      {
+         "id":112,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Restez positif et heureux. Travaillez dur et ne perdez pas espoir. Soyez ouvert à la critique et continuez à apprendre. Entourez-vous de gens heureux, chaleureux et authentiques. – Tena Desae",
+         "image_author":"null"
+      },
+      {
+         "id":113,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"C'est incroyable. La vie change très vite, de manière très positive, si vous le permettez. – Lindsey Vonn",
+         "image_author":"null"
+      },
+      {
+         "id":114,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je travaille si dur pour m'assurer de réussir. Si vous êtes positif et vraiment excité et enthousiaste à propos de ce que vous faites, ça va arriver, et ça va arriver en grand. – Shawn Mendès",
+         "image_author":"null"
+      },
+      {
+         "id":115,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je suis une personne vraiment, vraiment optimiste et vraiment, vraiment positive. Ma principale chose est : 'Profitez de la vie. Célébrer la vie. – Luke Bryan",
+         "image_author":"null"
+      },
+      {
+         "id":116,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La personne qui peut apporter l'esprit de rire dans une pièce est en effet bénie. – Bennett Cerf",
+         "image_author":"null"
+      },
+      {
+         "id":117,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Votre action positive combinée à une pensée positive se traduit par le succès. – Shiv Khera",
+         "image_author":"null"
+      },
+      {
+         "id":118,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La pensée positive est plus qu'un simple slogan. Cela change notre façon de nous comporter. Et je crois fermement que lorsque je suis positif, non seulement cela me rend meilleur, mais cela améliore également ceux qui m'entourent. -Harvey Mackay",
+         "image_author":"null"
+      },
+      {
+         "id":119,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Dans chaque jour, il y a 1440 minutes. Cela signifie que nous avons 1 440 opportunités quotidiennes d'avoir un impact positif. – Les Bruns",
+         "image_author":"null"
+      },
+      {
+         "id":120,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Votre sourire vous donnera un visage positif qui mettra les gens à l'aise avec vous. – Les Bruns",
+         "image_author":"null"
+      },
+      {
+         "id":121,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Il faut du soleil et de la pluie pour faire un arc-en-ciel. Il n'y aurait pas d'arcs-en-ciel sans soleil et pluie. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":122,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je crois au karma, et je crois que si vous diffusez des ondes positives à tout le monde, c'est tout ce que vous obtiendrez en retour. – Kesha",
+         "image_author":"null"
+      },
+      {
+         "id":123,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Travaillez dur pour ce que vous voulez parce que cela ne vous viendra pas sans vous battre. Vous devez être fort et courageux et savoir que vous pouvez faire tout ce que vous voulez. Si quelqu'un vous rabaisse ou vous critique, continuez à croire en vous et transformez-le en quelque chose de positif. – Léa LaBelle",
+         "image_author":"null"
+      },
+      {
+         "id":124,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Adopter la bonne attitude peut transformer un stress négatif en un stress positif. – Hans Selye",
+         "image_author":"null"
+      },
+      {
+         "id":125,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"L'engagement, la conviction et l'attitude positive sont tous importants si vous voulez réussir, que vous soyez dans le sport, les affaires ou, comme dans mon cas, l'anthropologie. – Donald Johanson",
+         "image_author":"null"
+      },
+      {
+         "id":126,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Une image de soi forte et positive est la meilleure préparation possible pour réussir. – Frères Joyce",
+         "image_author":"null"
+      },
+      {
+         "id":127,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Chaque jour apporte de nouvelles opportunités, vous permettant de vivre constamment avec amour - d'être là pour les autres - d'apporter un peu de lumière dans la journée de quelqu'un. Soyez reconnaissant et vivez chaque jour au maximum. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":128,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Ne perdez pas votre temps dans la colère, les regrets, les inquiétudes et les rancunes. La vie est trop courte pour être malheureux. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":129,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La capacité naturelle est importante, mais vous pouvez aller loin sans elle si vous avez la concentration, la motivation, le désir et une attitude positive. – Kirsten Sweetland",
+         "image_author":"null"
+      },
+      {
+         "id":130,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Regardez les moineaux ; ils ne savent pas ce qu'ils feront dans l'instant suivant. Vivons littéralement d'instant en instant. -Mahatma Gandhi",
+         "image_author":"null"
+      },
+      {
+         "id":131,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous prenez le contrôle de votre attitude, vous prenez le contrôle de votre vie. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":132,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Si vous avez un rêve, ne restez pas assis là. Rassemblez le courage de croire que vous pouvez réussir et ne négligez aucun effort pour en faire une réalité. – Roopleen",
+         "image_author":"null"
+      },
+      {
+         "id":133,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Une attitude positive peut vraiment faire des rêves une réalité – c'est le cas pour moi. -David Bailey",
+         "image_author":"null"
+      },
+      {
+         "id":134,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les personnes qui réussissent maintiennent une orientation positive dans la vie, peu importe ce qui se passe autour d'elles. Ils restent concentrés sur leurs succès passés plutôt que sur leurs échecs passés, et sur les prochaines mesures qu'ils doivent prendre pour se rapprocher de la réalisation de leurs objectifs plutôt que sur toutes les autres distractions que la vie leur présente. – Jack Canfield",
+         "image_author":"null"
+      },
+      {
+         "id":135,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Travaillez dur, restez positif et levez-vous tôt. C'est la meilleure partie de la journée. – George Allen, Sr.",
+         "image_author":"null"
+      },
+      {
+         "id":136,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Une attitude positive provoque une réaction en chaîne de pensées, d'événements et de résultats positifs. C'est un catalyseur et cela donne des résultats extraordinaires. – Wade Boggs",
+         "image_author":"null"
+      },
+      {
+         "id":137,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous êtes enthousiaste à propos de ce que vous faites, vous ressentez cette énergie positive. C'est très simple. – Paulo Coelho",
+         "image_author":"null"
+      },
+      {
+         "id":138,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand les pensées négatives arrivent - et elles le feront ; ils viennent à nous tous – il ne suffit pas de ne pas s'y attarder… Vous devez le remplacer par une pensée positive. – Joël Osteen",
+         "image_author":"null"
+      },
+      {
+         "id":139,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Au lieu de haïr, j'ai choisi de pardonner et de consacrer toute mon énergie positive à changer le monde. – Camryn Manheim",
+         "image_author":"null"
+      },
+      {
+         "id":140,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"N'arrêtez jamais de rêver, n'arrêtez jamais de croire, n'abandonnez jamais, n'arrêtez jamais d'essayer et n'arrêtez jamais d'apprendre. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":141,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Entourez-vous de personnes positives qui croient en vos rêves. Éloignez-vous des personnes négatives qui essaient de réduire votre motivation et votre ambition. Créez un espace pour que des personnes positives entrent dans votre vie. Entourez-vous de personnes positives qui croient en vos rêves, encouragent vos idées, soutiennent vos ambitions et font ressortir le meilleur de vous-même. – Roy T. Bennett",
+         "image_author":"null"
+      },
+      {
+         "id":142,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Gardez toujours votre visage tourné vers le soleil et les ombres tomberont derrière vous. —Walt Whitman",
+         "image_author":"null"
+      },
+      {
+         "id":143,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Des choses extraordinaires se cachent toujours dans des endroits où les gens ne pensent jamais à regarder. —Jodi Picoul",
+         "image_author":"null"
+      },
+      {
+         "id":144,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Se fixer des objectifs est la première étape pour transformer l'invisible en visible. —Tony Robbins",
+         "image_author":"null"
+      },
+      {
+         "id":145,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Tu peux tout avoir. Pas tout à la fois. -Oprah Winfrey",
+         "image_author":"null"
+      },
+      {
+         "id":146,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'ai raté plus de 9000 tirs dans ma carrière, j'ai perdu près de 300 matchs. 26 fois on m'a fait confiance pour prendre le coup gagnant et j'ai raté le match. J'ai échoué maintes et maintes fois dans ma vie. Et c'est pourquoi je réussis. -Michael Jordan",
+         "image_author":"null"
+      },
+      {
+         "id":147,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Dites quelque chose de positif et vous verrez quelque chose de positif. —Jim Thompson",
+         "image_author":"null"
+      },
+      {
+         "id":148,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Tout ce dont vous avez besoin est le plan, la feuille de route et le courage d'aller à votre destination. —Comte Rossignol",
+         "image_author":"null"
+      },
+      {
+         "id":149,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Entraînez votre esprit à voir le bien dans chaque situation. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":150,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Si vous pouvez rester positif dans une situation négative, vous gagnez. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":151,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Reste positif. Des jours meilleurs sont en route. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":152,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Ce n'est que dans l'obscurité que vous pouvez voir les étoiles. -Martin Luther King jr.",
+         "image_author":"null"
+      },
+      {
+         "id":153,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je demeure dans la possibilité. —Emily Dickinson",
+         "image_author":"null"
+      },
+      {
+         "id":154,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Un objectif n'est pas toujours destiné à être atteint, il sert souvent simplement de quelque chose à viser. - Bruce Lee",
+         "image_author":"null"
+      },
+      {
+         "id":155,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Un crayon n°2 et un rêve peuvent vous emmener partout. — Joyce Meyer",
+         "image_author":"null"
+      },
+      {
+         "id":156,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"D'une manière douce, vous pouvez secouer le monde. —Mahatma Gandhi",
+         "image_author":"null"
+      },
+      {
+         "id":157,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez vous-même et les gens vous aimeront.—Jeff Kinney",
+         "image_author":"null"
+      },
+      {
+         "id":158,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Chaque jour offre ses propres cadeaux. — Marc Aurèle",
+         "image_author":"null"
+      },
+      {
+         "id":159,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le bonheur est un papillon qui, lorsqu'il est poursuivi, est toujours juste hors de votre portée, mais qui, si vous vous asseyez tranquillement, peut se poser sur vous. -Nathaniel Hawthorne",
+         "image_author":"null"
+      },
+      {
+         "id":160,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous ne trouvez pas la vie heureuse. Tu l'as fait. —Thomas S. Monson",
+         "image_author":"null"
+      },
+      {
+         "id":161,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"L'inspiration vient de vous-même. Il faut être positif. Lorsque vous êtes positif, de bonnes choses arrivent. —Roy profond",
+         "image_author":"null"
+      },
+      {
+         "id":162,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Ceux qui ne croient pas en la magie ne la trouveront jamais.—Roald Dahl",
+         "image_author":"null"
+      },
+      {
+         "id":163,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Parfois, vous ne saurez jamais la valeur d'un moment, jusqu'à ce qu'il devienne un souvenir. -Dr. Seuss",
+         "image_author":"null"
+      },
+      {
+         "id":164,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La journée la plus gâchée est celle sans rire. —EE Cummings",
+         "image_author":"null"
+      },
+      {
+         "id":165,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Pour gagner gros, il faut parfois prendre de gros risques. -Bill Gates",
+         "image_author":"null"
+      },
+      {
+         "id":166,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Pour vivre une vie épanouie, nous devons continuer à créer le « suivant » de nos vies. Sans rêves et objectifs, il n'y a pas de vie, seulement d'exister, et ce n'est pas pour cela que nous sommes ici. -Mark Twain",
+         "image_author":"null"
+      },
+      {
+         "id":167,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Essaye d'être un arc-en-ciel dans le nuage de quelqu'un. —Maya Angélou",
+         "image_author":"null"
+      },
+      {
+         "id":168,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Ce qui se trouve derrière vous et ce qui se trouve devant vous n'est rien en comparaison de ce qui se trouve à l'intérieur de vous. —Ralph Waldo Emerson",
+         "image_author":"null"
+      },
+      {
+         "id":169,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Au moment où vous doutez de pouvoir voler, vous cessez à jamais de pouvoir le faire. —Peter Pan JM Barrie",
+         "image_author":"null"
+      },
+      {
+         "id":170,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Réfléchissez et émerveillez-vous. Émerveillez-vous et réfléchissez. -Dr. Sues",
+         "image_author":"null"
+      },
+      {
+         "id":171,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Juste pour mémoire, chérie, tous les changements positifs ne sont pas positifs au début. —SC Lourie",
+         "image_author":"null"
+      },
+      {
+         "id":172,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"En exprimant notre gratitude, nous ne devons jamais oublier que la plus haute appréciation n'est pas de prononcer des mots, mais d'en vivre. -John F. Kennedy",
+         "image_author":"null"
+      },
+      {
+         "id":173,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Aucun acte de bonté, aussi petit soit-il, n'est jamais gaspillé. -Ésope",
+         "image_author":"null"
+      },
+      {
+         "id":174,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La plupart des gens sont gentils quand vous les voyez enfin. —Harper Lee",
+         "image_author":"null"
+      },
+      {
+         "id":175,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous imaginez, vous pourriez aussi bien imaginer quelque chose qui en vaut la peine. —Lucy Maud Montgomery",
+         "image_author":"null"
+      },
+      {
+         "id":176,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Peu importe ce que les gens vous disent, les mots et les idées peuvent changer le monde. —Robin Williams",
+         "image_author":"null"
+      },
+      {
+         "id":177,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Celui qui est heureux rendra les autres heureux aussi. -Anne Frank",
+         "image_author":"null"
+      },
+      {
+         "id":178,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les souvenirs de nos vies, de nos œuvres et de nos actes se poursuivront dans d'autres. -Rosa Parks",
+         "image_author":"null"
+      },
+      {
+         "id":179,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Tous nos rêves peuvent devenir réalité, si nous avons le courage de les poursuivre. -Walt Disney",
+         "image_author":"null"
+      },
+      {
+         "id":180,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Dans vingt ans, vous serez plus déçu par les choses que vous n'avez pas faites que par celles que vous avez faites. —H. Jackson Brown Jr",
+         "image_author":"null"
+      },
+      {
+         "id":181,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le salut est à l'intérieur. —Directeur Samuel Norton",
+         "image_author":"null"
+      },
+      {
+         "id":182,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Sautez avec les deux pieds et soyez courageux. — Sujit Choudhry",
+         "image_author":"null"
+      },
+      {
+         "id":183,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Si je me débarrassais de mes démons, je perdrais mes anges. —Tennessee Williams",
+         "image_author":"null"
+      },
+      {
+         "id":184,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Laissez toujours votre conscience être votre guide. -Jiminy Cricket",
+         "image_author":"null"
+      },
+      {
+         "id":185,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Faites ce qui est vrai pour votre âme. — Malini Saba",
+         "image_author":"null"
+      },
+      {
+         "id":186,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je veux atteindre mon potentiel, avoir un impact sur mon monde et laisser un héritage. —Seth Buechley",
+         "image_author":"null"
+      },
+      {
+         "id":187,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Aujourd'hui est une bonne journée pour essayer. —Quasimodo, Le Bossu de Notre-Dame",
+         "image_author":"null"
+      },
+      {
+         "id":188,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Donnez de l'importance à votre vie et amusez-vous à le faire. —Aaron Hurst",
+         "image_author":"null"
+      },
+      {
+         "id":189,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Choisissez d'être optimiste, c'est mieux. — Dalaï Lama",
+         "image_author":"null"
+      },
+      {
+         "id":190,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Entoure-toi de personnes positives. —Rod Rohrich",
+         "image_author":"null"
+      },
+      {
+         "id":191,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Nous devons travailler ensemble pour améliorer le monde. — Samuel Strauch",
+         "image_author":"null"
+      },
+      {
+         "id":192,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Fondez vos relations sur les bonnes valeurs. —Dick Gephardt",
+         "image_author":"null"
+      },
+      {
+         "id":193,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez le changement que vous souhaitez voir dans le monde. —Mahatma Gandhi",
+         "image_author":"null"
+      },
+      {
+         "id":194,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"La joie de vivre devient une personne dont vous êtes fier. — Ordonnance de facture",
+         "image_author":"null"
+      },
+      {
+         "id":195,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les vrais riches sont ceux qui aiment ce qu'ils ont. —Proverbe yiddish",
+         "image_author":"null"
+      },
+      {
+         "id":196,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Mes amis, l'amour vaut mieux que la colère. L'espoir est meilleur que la peur. L'optimisme est meilleur que le désespoir. Alors soyons aimants, pleins d'espoir et optimistes. Et nous allons changer le monde. —Jack Layton",
+         "image_author":"null"
+      },
+      {
+         "id":197,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Laissez votre vie danser légèrement sur les bords du temps comme la rosée sur le bout d'une feuille. —Rabindranath Tagore",
+         "image_author":"null"
+      },
+      {
+         "id":198,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Lorsque vous réalisez à quel point la vie est précieuse et fragile, cela change toute votre perspective. — Ryan O'Donnell",
+         "image_author":"null"
+      },
+      {
+         "id":199,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le choix suivant est le choix le plus important. — George Wells",
+         "image_author":"null"
+      },
+      {
+         "id":200,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Un ami peut attendre derrière le visage d'un étranger.—Maya Angelou",
+         "image_author":"null"
+      },
+      {
+         "id":201,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand le soleil brille, je peux tout faire ; aucune montagne n'est trop haute, aucun problème trop difficile à surmonter. —Wilma Rodolphe",
+         "image_author":"null"
+      },
+      {
+         "id":202,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Nous n'avons peut-être pas encore atteint le sommet, mais nous sommes en train de monter. — Brian Nhira",
+         "image_author":"null"
+      },
+      {
+         "id":203,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le pouvoir de l'imagination nous rend infini. —John Muir",
+         "image_author":"null"
+      },
+      {
+         "id":204,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Faites le bien et le bien viendra à vous. —Adam Lowy",
+         "image_author":"null"
+      },
+      {
+         "id":205,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Décidez que vous vivrez votre objectif aujourd'hui. —Daniel Budzinski",
+         "image_author":"null"
+      },
+      {
+         "id":206,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Reconnaissez ce que vous avez en vous. —Éric Pulier",
+         "image_author":"null"
+      },
+      {
+         "id":207,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le monde est plein de choses magiques qui attendent patiemment que notre esprit s'aiguise. -Bertrand Russell",
+         "image_author":"null"
+      },
+      {
+         "id":208,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les mots peuvent inspirer, les pensées peuvent provoquer, mais seule l'action vous rapproche vraiment de vos rêves. — Sucres de Brad",
+         "image_author":"null"
+      },
+      {
+         "id":209,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Que vos problèmes soient moindres et vos bénédictions plus grandes. — Bénédiction irlandaise",
+         "image_author":"null"
+      },
+      {
+         "id":210,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Peu de choses peuvent aider un individu plus que de lui confier des responsabilités et de lui faire savoir que vous lui faites confiance. –Booker T. Washington",
+         "image_author":"null"
+      },
+      {
+         "id":211,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Regardez les moineaux ; ils ne savent pas ce qu'ils feront dans l'instant suivant. Vivons littéralement d'instant en instant. — Mahatma Gandhi",
+         "image_author":"null"
+      },
+      {
+         "id":212,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand je lâche ce que je suis, je deviens ce que je pourrais être. —Lao Tseu",
+         "image_author":"null"
+      },
+      {
+         "id":213,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Certains hommes voient les choses telles qu'elles sont et disent pourquoi - je rêve de choses qui n'ont jamais existé et je dis pourquoi pas. -George Bernard Shaw",
+         "image_author":"null"
+      },
+      {
+         "id":214,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Efforcez-vous de ne pas être un succès, mais plutôt d'être utile. -Albert Einstein",
+         "image_author":"null"
+      },
+      {
+         "id":215,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'attribue mon succès à ceci : je n'ai jamais donné ou pris d'excuse. -Florence Nightingale",
+         "image_author":"null"
+      },
+      {
+         "id":216,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Il n'y a rien dans une chenille qui vous dise que ce sera un papillon. —Buckminster Fuller",
+         "image_author":"null"
+      },
+      {
+         "id":217,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Le meilleur moment pour planter un arbre était il y a 20 ans. Le deuxième meilleur temps est maintenant. -Proverbe chinois",
+         "image_author":"null"
+      },
+      {
+         "id":218,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Faire le premier pas. —Darius Pêcheur",
+         "image_author":"null"
+      },
+      {
+         "id":219,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"J'ai appris que les gens oublieront ce que vous avez dit, les gens oublieront ce que vous avez fait, mais les gens n'oublieront jamais ce que vous leur avez fait ressentir. —Maya Angélou",
+         "image_author":"null"
+      },
+      {
+         "id":220,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Un jour ou un jour. C'est ton choix. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":221,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je ne perds jamais de vue que le simple fait d'être est amusant. —Katherine Hepburn",
+         "image_author":"null"
+      },
+      {
+         "id":222,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Quand j'avais 5 ans, ma mère m'a toujours dit que le bonheur était la clé de la vie. Quand je suis allé à l'école, ils m'ont demandé ce que je voulais être quand je serais grand. J'ai écrit 'heureux'. Ils m'ont dit que je ne comprenais pas la mission, et je leur ai dit qu'ils ne comprenaient pas la vie. -John Lennon",
+         "image_author":"null"
+      },
+      {
+         "id":223,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Nous avons tous deux vies. La seconde commence quand on se rend compte qu'on n'en a qu'une. —Confucius",
+         "image_author":"null"
+      },
+      {
+         "id":224,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Même si je n'atteint pas tous mes objectifs, je suis allé plus haut que je ne l'aurais fait si je n'en avais fixé aucun. —Danielle Fotopoulis",
+         "image_author":"null"
+      },
+      {
+         "id":225,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Être heureux pour ce moment. Ce moment est votre vie. —Omar Khyyam",
+         "image_author":"null"
+      },
+      {
+         "id":226,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous obtenez dans la vie ce que vous avez le courage de demander. -Oprah Winfrey",
+         "image_author":"null"
+      },
+      {
+         "id":227,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Nous savons ce que nous sommes, mais ne savons pas ce que nous pouvons être. -William Shakespeare",
+         "image_author":"null"
+      },
+      {
+         "id":228,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les temps difficiles ne durent pas. Les gens durs le font. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":229,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Vous ne vivez qu'une fois, mais si vous le faites bien, une fois suffit. —Mae Ouest",
+         "image_author":"null"
+      },
+      {
+         "id":230,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Rire souvent et beaucoup ; gagner le respect des gens intelligents et l'affection des enfants… laisser le monde dans un meilleur endroit… savoir qu'une seule vie a mieux respiré parce que vous avez vécu. C'est pour avoir réussi. —Ralph Waldo Emerson",
+         "image_author":"null"
+      },
+      {
+         "id":231,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Soyez toujours une version de premier ordre de vous-même, au lieu d'une version de second ordre de quelqu'un d'autre. —Judy Garland",
+         "image_author":"null"
+      },
+      {
+         "id":232,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"En fin de compte, ce ne sont pas les années de votre vie qui comptent. C'est la vie dans tes années. -Abraham Lincoln",
+         "image_author":"null"
+      },
+      {
+         "id":233,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Je m'attends à ne traverser ce monde qu'une seule fois. Tout bien, donc, que je peux faire ou toute gentillesse que je peux montrer à n'importe quelle créature, laissez-moi le faire maintenant. Qu'il ne me soit pas permis de l'ajourner ni de le négliger car je ne repasserai plus par ce chemin. —Stephen Grellet",
+         "image_author":"null"
+      },
+      {
+         "id":234,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Parfois, lorsque les choses s'effondrent, elles peuvent en fait se mettre en place. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":235,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Rester positif ne veut pas dire que tout se passera bien. Au contraire, cela signifie que vous irez bien, peu importe la tournure des choses. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":236,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Peu importe ce qui vous préoccupe en ce moment, oubliez-le. Respirez profondément, restez positif et sachez que les choses s'amélioreront. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":237,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Les choses que vous attendez et espérez ont tendance à arriver aux moments les plus inattendus. -Inconnu",
+         "image_author":"null"
+      },
+      {
+         "id":238,
+         "name_category":"Pensee Positive Citations",
+         "author":"Pensee Positive Citations",
+         "quotes":"Personne ne peut revenir en arrière et commencer un nouveau départ, mais tout le monde peut commencer aujourd'hui et créer une nouvelle fin. — Maria Robinson",
+         "image_author":"null"
+      }
+   ]
+}
