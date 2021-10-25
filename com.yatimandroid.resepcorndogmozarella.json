@@ -8,7 +8,7 @@
       "main_ads_intertitial":"b9102a5871cc7843",
       "backup_ads_banner":"3422da0461c94ed18288fb35d8e1776c",
       "backup_ads_intertitial":"fe74eebb107140e8be8eed186dcc1e5b",
-      "interval_intertitial": 2,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"3422da0461c94ed18288fb35d8e1776c",
       "url_webiste":"file:///android_asset/index.html",
