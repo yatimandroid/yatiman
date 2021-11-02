@@ -2,7 +2,7 @@
    "Ads":[
       {
          "select_main_ads":"ADMOB",
-         "select_backup_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
          "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
          "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
          "backup_ads_banner":"",
@@ -3919,6 +3919,706 @@
          "name_category":"Quote for Husband",
          "author":"Quote for Husband",
          "quotes":"Every heart sings a song, incomplete until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet. –Plato",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary! It’s such a blessing to have you in my life!",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"It’s easy to fall in love, but staying in love with the same person for the rest of one’s life is considerably more difficult. May God provide us the strength to stay committed to one another. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"The sound of the sea and the echo of your love share a few characteristics in common: they are both constant and eternal. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"If I could go back in time and choose again, I would choose you. My dear, I wish you a happy anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary! May God continue to bless you and keep you happy.",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"The sweetest of anniversaries are the result of enduring life’s most difficult situations. Happy Anniversary, love.",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Everything was like a dark sky until you, my brightest star, came through. We’ve had our ups and downs, but my heart always knew we’d make it this far. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Even after all these years of depending on you, you haven’t grown tired of me and thrown me out. Here’s hoping you stay this way for the rest of your life. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I think it’s very beautiful how two complete strangers can be brought together by the essence of love, and I hope this love lasts for many years to come.",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Our anniversary will remind you of the happiest times of our relationship, but it will also remind us of the hardships you had to through to get to those happy times. I wish you the best!",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May the love we share become stronger as we grow older together. I wish you a lifetime of happiness. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May the sun always shine on the path we share, the moon always shine brightly in our hearts, and the shooting stars always keep a close watch on us everywhere we go. Happy Anniversary, love.",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I get a lot of emotions, happiness, joy, and excitement from loving you. I’m happy to treasure those feelings for you. Wishing to share those for another year or so.",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I hope this adventure could go on forever because of the way you love me and the way you touch my life. Thank you for making this a memorable day in my life. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"To be successful, most couples spend all of their time working. However, we strike the perfect balance, pursuing achievement via work, love, and happiness. I wish you a happy anniversary, love.",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I wish you and I a happy, healthy, and lovely life together in the future, just as we did years ago.",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary, dear! May our beautiful bond last forever!",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May the light of happiness constantly shine through the clouds of misunderstandings in our eternal relationship, forming a rainbow of love. Happy Anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"It takes time to build the kind of relationship that’s almost entirely perfect. We have seemed to have done it all in one year. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":20,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I wish you a happy anniversary, my love. Remember the good times and leave the bad behind; reminisce about joyful memories while ignoring the sad. Take pleasure in a love that has endured so long that even angels are singing a song of joy.",
+         "image_author":"null"
+      },
+      {
+         "id":21,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"The road to love is long and winding, but we’ve always stood by one other in the face of difficulties. I hope that on our anniversary, this journey will continue to bring us joy for many more years!",
+         "image_author":"null"
+      },
+      {
+         "id":22,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"We have endured the actual test of time, growing with one other and closer together every year, through good times and bad. With that, I wish you the best in life.",
+         "image_author":"null"
+      },
+      {
+         "id":23,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I appreciate God for bringing you into my life. Happy anniversary, sweetheart! I love you!",
+         "image_author":"null"
+      },
+      {
+         "id":24,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Not everyone has been able to find true love that thrives and grows over time. Finding you, my love, has been a true blessing. May our relationship be blessed with many more years of growth and blessings.",
+         "image_author":"null"
+      },
+      {
+         "id":25,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Remember the first time you smiled at me and the way you looked at me gave me the chills? These feelings have stayed with me for years. I’m hoping you’ll stay the same.",
+         "image_author":"null"
+      },
+      {
+         "id":26,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May this day bring you a lot of happiness. May the years ahead of us be spent loving and caring for one another. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":27,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Every time I think of the incredible love we share, my heart melts. I hope it will continue to thrive and expand for many years to come. Happy Anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":28,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"As we celebrate another year of love and happiness, remember that we are also a beacon of light and hope to others. I hope you’ll never let go of the beautiful love that binds us within each other. Happy Anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":29,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"If I were given the chance to return to this planet, I would seize it with both hands and seek you out sooner than I did in this lifetime so that I could love you for a longer time. My soulmate, I wish you a happy anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":30,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Love becomes stronger over time. If we had a day full of heated but healthy marriage fights, remember that I would cook your favorite dinner that very evening to make things right. Let us continue to do this and wish each other good anniversaries like today till we are old.",
+         "image_author":"null"
+      },
+      {
+         "id":31,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Anniversaries are days to celebrate. The love that makes our relationship great. I wish all of your dreams may come true.",
+         "image_author":"null"
+      },
+      {
+         "id":32,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary! May the happiness of this day linger forever and till the last breath.",
+         "image_author":"null"
+      },
+      {
+         "id":33,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I simply wanted to express my delight at the prospect of another year of love and happiness ahead of us. With each passing day, may our love blossom and flourish even more. Happy Anniversary, my love!",
+         "image_author":"null"
+      },
+      {
+         "id":34,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"When you’re around, it’s difficult for me to keep my blush at away. I hope that even when it’s just a regular day or our anniversary, you’ll stick to me.",
+         "image_author":"null"
+      },
+      {
+         "id":35,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Today is a nice day to reflect and travel down memory lane, remembering all of the wonderful times we’ve shared together. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":36,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Being with you has been the happiest time of my life. You’ve shown me so much love and attention over the years. I want to wish you a happy anniversary, sweetheart!",
+         "image_author":"null"
+      },
+      {
+         "id":37,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Accepting to spend the rest of my life with you was one of the best decisions I’ve ever made. ",
+         "image_author":"null"
+      },
+      {
+         "id":38,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"On our anniversary, I swear we’ll spend the rest of our lives watching Netflix and chilling, having lots of chats, going on dinner dates, and going on small but wonderful trips.",
+         "image_author":"null"
+      },
+      {
+         "id":39,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May we never lose sight of what brought us together and what brings us great joy.",
+         "image_author":"null"
+      },
+      {
+         "id":40,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I’m delighted to have you in my life. Thank you once again for everything! Wishing you a happy anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":41,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May we always share this relationship with a kiss of love and a hug of care.",
+         "image_author":"null"
+      },
+      {
+         "id":42,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I was a young child playing in a nursery, and you joined me on my journey of being “together forever.” My love, I wish you a happy anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":43,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"To my better half, I wish you a happy anniversary. The good things in life are more enjoyable when shared with you, and I would rather die with you than with anybody else. Here’s to many more celebrations.",
+         "image_author":"null"
+      },
+      {
+         "id":44,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May our love for each other last a lifetime, as we make a lovely couple. Happy anniversary, my love.",
+         "image_author":"null"
+      },
+      {
+         "id":45,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"We have an extraordinary amount of love and respect for one another and I am grateful for that. I wish you a happy anniversary, my love!",
+         "image_author":"null"
+      },
+      {
+         "id":46,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I can’t imagine waking up to anybody except you, and on our anniversary, I’ll guarantee it’ll always be you.",
+         "image_author":"null"
+      },
+      {
+         "id":47,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Aphrodite herself could never have created such a powerful tie as the one we have. May we always be surrounded by such incredible love and caring.",
+         "image_author":"null"
+      },
+      {
+         "id":48,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Throughout history, many individuals have looked for love, but none has ever found it like the love we have. May we always be surrounded by great love and pleasure. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":49,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I’ve wanted to be selfish and make you mine since the day I met you, and I still want to do it now, even though it’s our anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":50,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"One of the most beautiful vows we can make is to hold and love one another forever. I love you and happy anniversary, dear!",
+         "image_author":"null"
+      },
+      {
+         "id":51,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy anniversary to my life partner, and here’s to many more years of happiness ahead.",
+         "image_author":"null"
+      },
+      {
+         "id":52,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Sharing a life is like sharing moments in time. The song is different for every one of us, but the dance is stunning.",
+         "image_author":"null"
+      },
+      {
+         "id":53,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"You didn’t whisper into my ear; instead, you whispered into my heart. You kissed my soul rather than my lips.",
+         "image_author":"null"
+      },
+      {
+         "id":54,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"An anniversary isn’t measured in hours of the day, but in each minute when two people remain one.",
+         "image_author":"null"
+      },
+      {
+         "id":55,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"When you can’t sleep because reality is finally better than your dreams, you know you’re in love.",
+         "image_author":"null"
+      },
+      {
+         "id":56,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I’m reminded why we’re meant for each other on this day, and every day.",
+         "image_author":"null"
+      },
+      {
+         "id":57,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I just wanted to let you know that whenever I see myself happy, it’s with you.",
+         "image_author":"null"
+      },
+      {
+         "id":58,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Because I saw how perfect you were, I fell in love with you. I realized you weren’t flawless, which made me love you even more.",
+         "image_author":"null"
+      },
+      {
+         "id":59,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Love isn’t blind; it sees more, not less, but it’s prepared to see less because it sees more.",
+         "image_author":"null"
+      },
+      {
+         "id":60,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"As the years pass, love becomes more abundant, fast, and poignant.",
+         "image_author":"null"
+      },
+      {
+         "id":61,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"My love for you becomes stronger every day, as I love you more now than yesterday and less tomorrow.",
+         "image_author":"null"
+      },
+      {
+         "id":62,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I could walk around my garden all day if I had a flower for every time I thought about you.",
+         "image_author":"null"
+      },
+      {
+         "id":63,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"My eyes will always look for you in a sea of people.",
+         "image_author":"null"
+      },
+      {
+         "id":64,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"You hold a special place in my heart that no one else could.",
+         "image_author":"null"
+      },
+      {
+         "id":65,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"It was true love at first sight. I believe I have finally discovered my soulmate after all these years.",
+         "image_author":"null"
+      },
+      {
+         "id":66,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Even if we spent another year together, I’d still prefer you over a room full of puppies.",
+         "image_author":"null"
+      },
+      {
+         "id":67,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I will spend all of eternity loving, caring for, and respecting you, expressing every day that I hold you as high as the stars.",
+         "image_author":"null"
+      },
+      {
+         "id":68,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Meeting you was fate, becoming your friend was a decision, but I had no control over falling in love with you.",
+         "image_author":"null"
+      },
+      {
+         "id":69,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"The greatest joy in life is knowing that we are loved; loved for who we are, or rather, loved in spite of who we are.",
+         "image_author":"null"
+      },
+      {
+         "id":70,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I went searching for you the moment I heard my first love story, not realizing how blind I was. Lovers don’t meet in the middle of nowhere. They’ve always been in each other.",
+         "image_author":"null"
+      },
+      {
+         "id":71,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"This particular day has been set aside exclusively for you. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":72,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"You were made to be loved – and I’ve loved you, in the idea of you, my entire life.",
+         "image_author":"null"
+      },
+      {
+         "id":73,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"My heart is overflowing with things that only words can express. This is especially for you today, with all my love.",
+         "image_author":"null"
+      },
+      {
+         "id":74,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I laugh a little harder, cry a little less, and smile a lot more because of you.",
+         "image_author":"null"
+      },
+      {
+         "id":75,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"It’s a blessing to have you in my life. But, supposedly, all good things must come to an end, piffle, says I, for you, without a doubt, will always be my lover and dearest friend.",
+         "image_author":"null"
+      },
+      {
+         "id":76,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"My love for you will never fade. I’ve loved you for years and will continue to love you till the day I die. Happy Anniversary, love!",
+         "image_author":"null"
+      },
+      {
+         "id":77,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Being with you is similar to that delicious cup of coffee I have every morning. Even though I drink it every day, I still appreciate it.",
+         "image_author":"null"
+      },
+      {
+         "id":78,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Every love story is distinct, one-of-a-kind, and lovely, but ours is my personal favorite. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":79,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Another year has passed since I first met the person of my dreams. I am grateful for each year spent with you.",
+         "image_author":"null"
+      },
+      {
+         "id":80,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"We learn that true love never dies; it simply grows stronger and truer with each passing year. Time has proven that your love is the purest form of love that has ever existed. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":81,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary! I would find you sooner and love you longer if I could turn back the clock.",
+         "image_author":"null"
+      },
+      {
+         "id":82,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Thank you for being my lifelong companion. Thank you so much for bringing such joy to my heart. Happy anniversary and I love you so much!",
+         "image_author":"null"
+      },
+      {
+         "id":83,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"When it comes to pure love, there is no such thing as an end. I hope we will be able to continue to celebrate for many years to come. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":84,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary! Your love is always a breath of fresh air amidst all the hardships, disappointments, and lost hopes and dreams.",
+         "image_author":"null"
+      },
+      {
+         "id":85,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"We’ve been able to get through the most difficult times of our lives hand in hand and heart to heart, which makes this an even sweeter anniversary. I wouldn’t do it with anyone else on the planet. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":86,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Such a divine union can only be formed by two good and pure hearts. May the love we share grow stronger in our hearts as our relationship becomes stronger in days and years!",
+         "image_author":"null"
+      },
+      {
+         "id":87,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I’m so grateful to be able to share this roller coaster of life with you, through all of life’s highs and lows. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":88,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy anniversary to the one and only person I want by my side every day and night for the rest of my life. I love you, sweetheart!",
+         "image_author":"null"
+      },
+      {
+         "id":89,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Anniversaries are designed to remind us of all the good times we’ve had in our relationship, as well as all the challenges we’ve overcome to get to those happy times. What an emotional rollercoaster we’ve been on.",
+         "image_author":"null"
+      },
+      {
+         "id":90,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary, dear. Thank you for always forgiving me, believing in me, and sticking with me no matter what.",
+         "image_author":"null"
+      },
+      {
+         "id":91,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May our love for each other grow stronger with each passing year, like a rose. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":92,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"May one magnificent year of happiness and joy be followed by many more. Let us rejoice and make today an occasion to remember.",
+         "image_author":"null"
+      },
+      {
+         "id":93,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I am the happiest, most grateful, and luckiest person on the planet because you are at my side. Happy Anniversary to you, my love!",
+         "image_author":"null"
+      },
+      {
+         "id":94,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"I am enjoying a life that is precisely how I imagined it to be thanks to you, my dear. Happy Anniversary.",
+         "image_author":"null"
+      },
+      {
+         "id":95,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Our relationship is more than just a love story; it’s a romantic epic. It is not a thousand-mile journey, but rather an experience filled with the nicest things in life and an infinite loop of beautiful memories. Happy Anniversary!",
+         "image_author":"null"
+      },
+      {
+         "id":96,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Happy Anniversary, dear! Your love is one-of-a-kind and will last a lifetime. It’s the kind that gets stronger over time and inspires others.",
+         "image_author":"null"
+      },
+      {
+         "id":97,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"Even though it’s our anniversary, nothing has changed. I still miss you a lot even if you’re only gone for a minute!",
+         "image_author":"null"
+      },
+      {
+         "id":98,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"With you, forever isn’t long enough. Happy Anniversary, my dear.",
+         "image_author":"null"
+      },
+      {
+         "id":99,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"On our anniversary, you’ve made me laugh, appreciate you, learn, develop, and be oh so grateful we’re together for another 365 days.",
+         "image_author":"null"
+      },
+      {
+         "id":100,
+         "name_category":"Anniversary Wishes",
+         "author":"Anniversary Wishes",
+         "quotes":"You remind me to rest while I am busy at work. You reminded me to eat my lunch whenever I forgot. Today is our anniversary, and it’s my turn to tell you how much I love you!",
          "image_author":"null"
       }
    ]
