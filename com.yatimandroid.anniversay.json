@@ -1,25 +1,29 @@
 {
-   "Ads":[
-      {
-         "select_main_ads":"ADMOB",
-         "select_backup_ads":"APPLOVIN-D",
-         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
-         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-         "backup_ads_banner":"",
-         "backup_ads_intertitial":"",
-         "interval_intertitial":1,
-         "initialize_sdk":"",
-         "initialize_sdk_backup_ads":"",
-         "high_paying_keyword_1":"Forex",
-         "high_paying_keyword_2":"Insurance",
-         "high_paying_keyword_3":"Binary Option",
-         "high_paying_keyword_4":"Finance",
-         "high_paying_keyword_5":"Trading Forex",
-         "status_app":"0",
-         "link_redirect":"https://"
-      }
-   ],
-   "Categories":[
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "image_link_promote":"https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/images/202110/img_1920x_617c916c57b344-26165494-33896030.jpeg",
+      "description_promote":"1st - The Big Marketplace Source Code for Monetize Mobile Application on Indonesia",
+      "link_promote":"https://aliendro.id/",
+      "onoff_promote":"1"
+    }
+  ],
+  "Categories":[
       {
          "name_category":"Anniversary Quote"
       },
