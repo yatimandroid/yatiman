@@ -17,10 +17,10 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "image_link_promote":"https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/images/202110/img_1920x_617c916c57b344-26165494-33896030.jpeg",
-      "description_promote":"1st - The Big Marketplace Source Code for Monetize Mobile Application on Indonesia",
-      "link_promote":"https://aliendro.id/",
-      "onoff_promote":"1"
+      "image_link_promote":"",
+      "description_promote":"",
+      "link_promote":"",
+      "onoff_promote":"0"
     }
   ],
   "Categories":[
