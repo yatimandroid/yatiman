@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
+      "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "caapppub",
-      "main_ads_intertitial":"caapppub",
+      "main_ads_banner": "1c698df8847132f1",
+      "main_ads_intertitial":"68474130222cb602",
       "backup_ads_banner":"1c698df8847132f1",
       "backup_ads_intertitial":"68474130222cb602",
       "interval_intertitial": 1,
