@@ -1,0 +1,238 @@
+{
+   "Ads":[
+      {
+         "Ads":[
+            {
+               "select_main_ads":"ADMOB",
+               "select_backup_ads":"STARTAPP",
+               "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+               "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+               "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+               "backup_ads_banner":"",
+               "backup_ads_intertitial":"",
+               "backup_ads_reward":"",
+               "interval_intertitial":5,
+               "initialize_sdk":"",
+               "initialize_sdk_backup_ads":"",
+               "high_paying_keyword_1":"",
+               "high_paying_keyword_2":"",
+               "high_paying_keyword_3":"",
+               "high_paying_keyword_4":"",
+               "high_paying_keyword_5":"",
+               "status_app":"0",
+               "link_redirect":"https://"
+            }
+         ]
+      }
+   ],
+   "Skin":[
+      {
+         "name_skin":"Anonymous Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo001.png"
+      },
+      {
+         "name_skin":"Berry Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo002.png"
+      },
+      {
+         "name_skin":"Black Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo003.png"
+      },
+      {
+         "name_skin":"Blonde Hair Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo004.png"
+      },
+      {
+         "name_skin":"Cat Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo005.png"
+      },
+      {
+         "name_skin":"Cheems But Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo006.png"
+      },
+      {
+         "name_skin":"Skin Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo007.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo008.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo009.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo010.png"
+      },
+      {
+         "name_skin":"Festive Boy With Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo011.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo012.png"
+      },
+      {
+         "name_skin":"Ginger With Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo013.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo014.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo015.png"
+      },
+      {
+         "name_skin":"Hoodie Kid With Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo016.png"
+      },
+      {
+         "name_skin":"Tuxedo Slim",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo017.png"
+      },
+      {
+         "name_skin":"Tuxedo Skin",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo018.png"
+      },
+      {
+         "name_skin":"Man In A Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo019.png"
+      },
+      {
+         "name_skin":"Maroon Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo020.png"
+      },
+      {
+         "name_skin":"My Tuxedo Skin",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo021.png"
+      },
+      {
+         "name_skin":"Neon Hair Tuxedo Girl",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo022.png"
+      },
+      {
+         "name_skin":"Old Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo023.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo024.png"
+      },
+      {
+         "name_skin":"White Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo025.png"
+      },
+      {
+         "name_skin":"White Tuxedo Normal Arms",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo026.png"
+      },
+      {
+         "name_skin":"Skin Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo027.png"
+      },
+      {
+         "name_skin":"Man With Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo028.png"
+      },
+      {
+         "name_skin":"Man With Tuxedo V",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo029.png"
+      },
+      {
+         "name_skin":"Suit Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo030.png"
+      },
+      {
+         "name_skin":"The Comedian With Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo031.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo032.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo033.png"
+      },
+      {
+         "name_skin":"Tuxedo And Flanel",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo034.png"
+      },
+      {
+         "name_skin":"Tuxedo Boi",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo035.png"
+      },
+      {
+         "name_skin":"Tuxedo Carrot",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo036.png"
+      },
+      {
+         "name_skin":"Tuxedo Cat",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo037.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo038.png"
+      },
+      {
+         "name_skin":"Tuxedo Crown",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo039.png"
+      },
+      {
+         "name_skin":"Tuxedo Demon Skin",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo040.png"
+      },
+      {
+         "name_skin":"Tuxedo Cat",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo041.png"
+      },
+      {
+         "name_skin":"Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo042.png"
+      },
+      {
+         "name_skin":"Tuxedo Lad",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo043.png"
+      },
+      {
+         "name_skin":"Tuxedo Mk",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo044.png"
+      },
+      {
+         "name_skin":"Tuxedo Security Guard",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo045.png"
+      },
+      {
+         "name_skin":"Tuxedo Slime",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo046.png"
+      },
+      {
+         "name_skin":"Tuxedo Steve",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo047.png"
+      },
+      {
+         "name_skin":"Tuxedo Steve",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo048.png"
+      },
+      {
+         "name_skin":"Tuxedo Red Hair",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo049.png"
+      },
+      {
+         "name_skin":"Tuxedo Skin",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo050.png"
+      },
+      {
+         "name_skin":"Wedding Tuxedo",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo051.png"
+      },
+      {
+         "name_skin":"Tuxedo But White",
+         "install":"https://archive.org/download/tuxedoskin/tuxedo052.png"
+      }
+   ]
+}
