@@ -1,28 +1,24 @@
 {
    "Ads":[
       {
-         "Ads":[
-            {
-               "select_main_ads":"FACEBOOK",
-               "select_backup_ads":"APPLOVIN-M",
-               "main_ads_banner":"282771990494604_282772030494600",
-               "main_ads_intertitial":"282771990494604_282772027161267",
-               "main_ads_reward":"",
-               "backup_ads_banner":"9b960f0fb1e843f8",
-               "backup_ads_intertitial":"0db4812a7cfcd9ca",
-               "backup_ads_reward":"",
-               "interval_intertitial":1,
-               "initialize_sdk":"",
-               "initialize_sdk_backup_ads":"",
-               "high_paying_keyword_1": "Forex",
-               "high_paying_keyword_2": "Insurance",
-               "high_paying_keyword_3": "Binary Option",
-               "high_paying_keyword_4": "Finance",
-               "high_paying_keyword_5": "Trading Forex",
-               "status_app":"0",
-               "link_redirect":"https://"
-            }
-         ]
+         "select_main_ads":"FACEBOOK",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"282771990494604_282772030494600",
+         "main_ads_intertitial":"282771990494604_282772027161267",
+         "main_ads_reward":"",
+         "backup_ads_banner":"9b960f0fb1e843f8",
+         "backup_ads_intertitial":"0db4812a7cfcd9ca",
+         "backup_ads_reward":"",
+         "interval_intertitial":1,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"Forex",
+         "high_paying_keyword_2":"Insurance",
+         "high_paying_keyword_3":"Binary Option",
+         "high_paying_keyword_4":"Finance",
+         "high_paying_keyword_5":"Trading Forex",
+         "status_app":"0",
+         "link_redirect":"https://"
       }
    ],
    "Skin":[
