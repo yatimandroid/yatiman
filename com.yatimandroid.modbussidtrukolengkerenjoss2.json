@@ -1,0 +1,69 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "DefaultBanner",
+      "main_ads_intertitial":"DefaultInterstitial",
+      "main_native_for_admob_applovin":"",
+      "backup_native_for_admob_applovin":"",
+      "backup_ads_banner":"c6dcd7e20ed1245e",
+      "backup_ads_intertitial":"f66e6f76342d7e9f",
+      "interval_intertitial": 1,
+      "initialize_sdk":"14e11a9f9",
+      "initialize_sdk_backup_ads":"4725387",
+      "high_paying_keyword_1": "Banner c6dcd7e20ed1245e Interst f66e6f76342d7e9f Native",
+      "high_paying_keyword_2": "Banner_Android  Interstitial_Android",
+      "high_paying_keyword_3": "Banner  2115335571977329_2115335628643990  2115335571977329_2115335621977324",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"Box Isuzz Indah",
+      "image":"file:///android_asset/indahkargo.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Box%20Isuzz%20Indah.bussidmod",
+      "link_livery":"https://archive.org/download/mod-truk-oleng-joss/Box%20Isuzz%20Indah.png"
+    },
+	{
+      "title":"Coennter Souleh",
+      "image":"file:///android_asset/CoennterSouleh.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Coennter%20Souleh.bussidmod",
+      "link_livery":"https://archive.org/download/mod-truk-oleng-joss/Coennter%20Souleh.png"
+    },
+	{
+      "title":"Coenter Angel Terpal Segitiga",
+      "image":"file:///android_asset/CoenterAngelTerpalSegitiga.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Coenter%20Angel%20Terpal%20Segitiga.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Coenter Full Anim",
+      "image":"file:///android_asset/CoenterFullAnim.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Coenter%20Full%20Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Coenter Kalimantan",
+      "image":"file:///android_asset/CoenterKalimantan.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Coenter%20Kalimantan.bussidmod",
+      "link_livery":"https://archive.org/download/mod-truk-oleng-joss/Coenter%20Kalimantan.png"
+    },
+	{
+      "title":"Coenter Khanz",
+      "image":"file:///android_asset/CoenterKhanz.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Coenter%20Khanz.bussidmod",
+      "link_livery":"https://archive.org/download/mod-truk-oleng-joss/Coenter%20Khanz.png"
+    },
+	{
+      "title":"Isuzz Terpal Segitiga",
+      "image":"file:///android_asset/IsuzzTerpalSegitiga.png",
+      "link_mods":"https://archive.org/download/mod-truk-oleng-joss/Isuzz%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://archive.org/download/mod-truk-oleng-joss/Isuzz%20Terpal%20Segitiga.png"
+    }
+  ]
+}
