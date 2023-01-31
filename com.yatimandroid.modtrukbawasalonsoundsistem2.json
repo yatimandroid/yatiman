@@ -1,0 +1,109 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"DefaultBanner",
+         "main_ads_intertitial":"DefaultInterstitial",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"DefaultRewardedVideo",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "interval_intertitial":2,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"55150216-2055-4716-ae0a-fcf428e0ae96",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"DEREK",
+         "title":"Cuanter Angkut Sound",
+         "image":"file:///android_asset/CANTER-ANKUT-SOUNDss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/CANTER%20ANKUT%20SOUND.bussidvehicle",
+         "link_livery":"png"
+      },
+      {
+         "id":2,
+         "category":"DEREK",
+         "title":"Cuanter Brewog Audio",
+         "image":"file:///android_asset/Canter-Brewog-Audioss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Canter%20Brewog%20Audio.bussidmod",
+         "link_livery":"png"
+      },
+      {
+         "id":3,
+         "category":"DEREK",
+         "title":"Cuanter TE Sound",
+         "image":"file:///android_asset/CANTER-TE-SOUNDss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/CANTER%20TE%20SOUND.bussidvehicle",
+         "link_livery":"png"
+      },
+      {
+         "id":4,
+         "category":"DEREK",
+         "title":"Cuanter TE Sound V2",
+         "image":"file:///android_asset/CANTER-TE-SOUND-V2ss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/CANTER%20TE%20SOUND%20V2.bussidvehicle",
+         "link_livery":"png"
+      },
+      {
+         "id":5,
+         "category":"DEREK",
+         "title":"Huino Gope Angkut Sound",
+         "image":"file:///android_asset/Hino-500-Angkut-Soundss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Hino%20500%20Angkut%20Sound.bussidmod",
+         "link_livery":"png"
+      },
+      {
+         "id":6,
+         "category":"DEREK",
+         "title":"Huino 500NGHSD Strom",
+         "image":"file:///android_asset/Hino-500NGHSD-Stromss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Hino%20500NGHSD%20Strom.bussidmod",
+         "link_livery":"png"
+      },
+      {
+         "id":7,
+         "category":"DEREK",
+         "title":"Truck Muatan Sound LED",
+         "image":"file:///android_asset/Truck-Muatan-Sound-System-LEDss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Truk%20Muatan%20SoundLED%20V2.bussidvehicle",
+         "link_livery":"png"
+      },
+      {
+         "id":8,
+         "category":"DEREK",
+         "title":"Truck Nmr71 Angkut Sound",
+         "image":"file:///android_asset/Truck-Nmr71-Angkut-Soundss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Truck%20Nmr71%20Angkut%20Sound.bussidmod",
+         "link_livery":"png"
+      },
+      {
+         "id":9,
+         "category":"DEREK",
+         "title":"Truk Thong Thong Klek Varian DJ",
+         "image":"file:///android_asset/Truk-Thong-Thong-Klek-Varian-DJss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Truk%20Thong%20Thong%20Klek%20Varian%20DJ.bussidmod",
+         "link_livery":"png"
+      },
+      {
+         "id":10,
+         "category":"DEREK",
+         "title":"Truk Thong Thong Klek Varian Penumpang",
+         "image":"file:///android_asset/Truk-Thong-Thong-Klek-Varian-Penumpangss.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawasalon/Thong%20Thong%20Lek%20New%20Pagoeron%20Penumpang.bussidmod",
+         "link_livery":"png"
+      }
+   ]
+}
