@@ -1,19 +1,20 @@
-{"Ads": [
+{
+ "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"FALSE",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-7691534248804171/8911507147x",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Forex",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "attorney",
+      "high_paying_keyword_4": "Finance",
+      "high_paying_keyword_5": "Trading",
       "status_app": "0",
       "link_redirect": "https://"
     }
