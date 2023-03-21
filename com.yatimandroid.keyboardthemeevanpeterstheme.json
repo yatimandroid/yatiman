@@ -1,0 +1,83 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "APPLOVIN-D",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "db4d5e8718b97d78",
+         "backup_ads_intertitial": "518cd97722c60b52",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": ""
+   },
+   "Theme": [
+      {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/1.jpg"
+      },
+      {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/2.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/3.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/4.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/5.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/6.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/7.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/8.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/9.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/10.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/11.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/12.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/13.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/14.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/15.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/16.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/03/17.jpg"
+      }
+   ]
+}
