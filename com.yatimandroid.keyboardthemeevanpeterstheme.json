@@ -2,7 +2,7 @@
    "Ads": [
       {
          "select_main_ads": "ADMOB",
-         "select_backup_ads": "APPLOVIN-D",
+         "select_backup_ads": "null",
          "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
          "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
          "backup_ads_banner": "db4d5e8718b97d78",
@@ -23,7 +23,7 @@
       }
    ],
    "Setting": {
-      "CHILD_DIRECT_GDPR": true,
+      "CHILD_DIRECT_GDPR": false,
       "PROTECT_APP": false,
       "BASE_64_LICENSE_KEY": ""
    },
