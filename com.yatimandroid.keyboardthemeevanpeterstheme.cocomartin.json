@@ -1,0 +1,71 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "null",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "",
+         "backup_ads_intertitial": "",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": false,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": ""
+   },
+   "Theme": [
+      {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin001.jpg"
+      },
+      {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin002.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin003.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin004.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin005.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin006.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin007.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin008.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin009.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin010.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin011.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin012.jpg"
+      },
+	  {
+         "url_theme": "https://yatimandroid.files.wordpress.com/2023/04/cocomartin013.jpg"
+      }
+   ]
+}
